@@ -1,4 +1,8 @@
-# 💫 About Me:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abdurrobr34l/Abdurrobr34l/main/banner.png" alt="GitHub Banner" />
+</p>
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> About Me:
 I am passionate about creating user-friendly and visually appealing websites. I specialize in building responsive designs that ensure seamless functionality across all devices. By staying updated on the latest industry trends and best practices, I produce clean, efficient, and understandable code. My goal is to blend creativity with functionality to deliver web solutions that enhance user experience. I thrive on challenges, particularly when it comes to problem-solving, and I'm always eager to learn new skills and technologies. I look forward to contributing to exciting projects and continuing my growth in this fast-paced field..
 
 

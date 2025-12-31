@@ -3,8 +3,11 @@
 </p>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> About Me:
-I am passionate about creating user-friendly and visually appealing websites. I specialize in building responsive designs that ensure seamless functionality across all devices. By staying updated on the latest industry trends and best practices, I produce clean, efficient, and understandable code. My goal is to blend creativity with functionality to deliver web solutions that enhance user experience. I thrive on challenges, particularly when it comes to problem-solving, and I'm always eager to learn new skills and technologies. I look forward to contributing to exciting projects and continuing my growth in this fast-paced field..
+I am a passionate Full-Stack Web Developer with hands-on experience in the MERN stack and Next.js. I enjoy building responsive, user-friendly, and performance-focused web applications that work seamlessly across devices.
 
+I focus on writing clean, maintainable, and scalable code while following modern development best practices. I am particularly interested in creating intuitive user interfaces, integrating backend APIs, and improving application performance and SEO using Next.js.
+
+I enjoy solving real-world problems, continuously learning new technologies, and contributing to meaningful projects. I am always eager to improve my skills and grow as a developer in a fast-paced, collaborative environment.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/abdurrobr34l) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abdurrobr34l/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdurrobr34l/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/Abdurrob_r34l) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@abdurrobr34l) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Abdur-Rob-the-reactor) 

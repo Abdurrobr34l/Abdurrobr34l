@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abdurrobr34l/Abdurrobr34l/main/banner.png" alt="GitHub Banner" />
+  <img src="https://raw.githubusercontent.com/Abdurrobr34l/Abdurrobr34l/banner.png" alt="GitHub Banner" />
 </p>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> About Me:

@@ -18,13 +18,13 @@ I enjoy solving real-world problems, continuously learning new technologies, and
 ## 📊 GitHub Stats
 <p align="center">
 <!-- GitHub Overall Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=abdurrob&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abdurrobr34l&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 <br/>
 <!-- GitHub Streak / Contributions -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrob&theme=dark" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdurrobr34l&theme=dark" alt="GitHub Streak" />
 <br/>
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrob&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurrobr34l&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
 
